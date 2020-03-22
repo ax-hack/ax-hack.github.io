@@ -27,23 +27,23 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "2018/02/09/notes-collective-mind/index.html",
-    "revision": "feecb8bf86a3626808521b3cc08e2732"
+    "revision": "7c86af838b18b2becbb4741e157b329c"
   },
   {
     "url": "2018/12/18/phil-thinking-about-fate/index.html",
-    "revision": "dd09b5a5cea41d1d340888adfb0c401b"
+    "revision": "b6059964c1a20367177c8f23aa29edb7"
   },
   {
     "url": "2019/08/15/creation-space-wanderer/index.html",
-    "revision": "4ee8e4b93fc48fcf0c658bebe98670df"
+    "revision": "b19ca921276254ba0477cc3b044bbeb1"
   },
   {
     "url": "2020/02/29/creation-last-entry-in-the-logbook/index.html",
-    "revision": "30ab43c7b547d0dee1ef35d73baae5d7"
+    "revision": "9d6245cbe474c3ea12fb51de7229943e"
   },
   {
     "url": "2020/03/08/poetry-for-my-sweethear-kate/index.html",
-    "revision": "7ced499a65bdf93f6b7a368d79dc7c6f"
+    "revision": "68f17673e9c33fd3a606ac0975fb7ded"
   },
   {
     "url": "assets/css/0.styles.3ce694b2.css",
@@ -146,8 +146,8 @@ self.__precacheManifest = [
     "revision": "0b88303181b85258e59b60278cafeaee"
   },
   {
-    "url": "assets/js/app.de8462f4.js",
-    "revision": "de374e440925248f58466e778e1e2946"
+    "url": "assets/js/app.8c2d8562.js",
+    "revision": "898f58a2d92e90639e506ef97d95fbbb"
   },
   {
     "url": "assets/js/vuejs-paginate.18af9619.js",
@@ -155,11 +155,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2cdd8a10ef3787d9252e018ce1f8cea9"
+    "revision": "773fb157d4db3e78926c02b9231f97fb"
   },
   {
     "url": "tag/index.html",
-    "revision": "8009f852a8392c88ace82bdd8bfe7ec0"
+    "revision": "681a38da3fc26b93d1b854825b37c944"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
