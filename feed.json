@@ -1,0 +1,59 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ax-hack",
+    "home_page_url": "https://ax-hack.info",
+    "feed_url": "https://ax-hack.info/feed.json",
+    "description": "Ax-hack personal blog",
+    "items": [
+        {
+            "id": "https://ax-hack.info/2018/02/09/notes-collective-mind/",
+            "url": "https://ax-hack.info/2018/02/09/notes-collective-mind/",
+            "title": "Заметка о коллективном разуме",
+            "summary": "Небольшое эссе на тему коллективного разума.",
+            "date_modified": "2018-02-09T00:00:00.000Z",
+            "author": {
+                "name": "ax-hack"
+            }
+        },
+        {
+            "id": "https://ax-hack.info/2018/12/18/phil-thinking-about-fate/",
+            "url": "https://ax-hack.info/2018/12/18/phil-thinking-about-fate/",
+            "title": "Размышление о судьбе",
+            "summary": "Небольшая философская заметка на тему судьбы.",
+            "date_modified": "2018-12-18T00:00:00.000Z",
+            "author": {
+                "name": "ax-hack"
+            }
+        },
+        {
+            "id": "https://ax-hack.info/2019/08/15/creation-space-wanderer/",
+            "url": "https://ax-hack.info/2019/08/15/creation-space-wanderer/",
+            "title": "Космический странник",
+            "summary": "Небольшой рассказ, отрывок. Научная фантастика с элементами драмы, о смешанных чувствах молодого капитана космического корабля.",
+            "date_modified": "2019-08-15T00:00:00.000Z",
+            "author": {
+                "name": "ax-hack"
+            }
+        },
+        {
+            "id": "https://ax-hack.info/2020/02/29/creation-last-entry-in-the-logbook/",
+            "url": "https://ax-hack.info/2020/02/29/creation-last-entry-in-the-logbook/",
+            "title": "Последняя запись в бортовой журнал",
+            "summary": "Небольшой рассказ, отрывок. Научная фантастика с элементом драмы. О чувствах одного человека, пожалевшего о своём выборе.",
+            "date_modified": "2020-02-29T00:00:00.000Z",
+            "author": {
+                "name": "ax-hack"
+            }
+        },
+        {
+            "id": "https://ax-hack.info/2020/03/08/poetry-for-my-sweethear-kate/",
+            "url": "https://ax-hack.info/2020/03/08/poetry-for-my-sweethear-kate/",
+            "title": "Моя звезда (поэзия)",
+            "summary": "Поэтический очерк, посвящённый моей возлюбенной - Екатерине.",
+            "date_modified": "2020-03-08T00:00:00.000Z",
+            "author": {
+                "name": "ax-hack"
+            }
+        }
+    ]
+}
