@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ax-hack.info</id>
     <title>Ax-hack</title>
-    <updated>2020-03-22T20:15:08.687Z</updated>
+    <updated>2020-04-01T09:32:25.123Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://ax-hack.info"/>
     <link rel="self" href="https://ax-hack.info/feed.atom"/>
     <subtitle>Ax-hack personal blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Что посмотреть - Аниме Ergo Proxy]]></title>
+        <id>https://ax-hack.info/_draft/2020-03-25-whatwatch-ergo-proxy.html</id>
+        <link href="https://ax-hack.info/_draft/2020-03-25-whatwatch-ergo-proxy.html">
+        </link>
+        <updated>2020-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Задаётесь вопросом чтобы посмотреть на досуге? Вам нравятся сложные интеллектуальные произведения и вы не пугаетесь рисованной анимации? Тогда Эрго Прокси это то что вам нужно!]]></summary>
+        <author>
+            <name>ax-hack</name>
+            <email>info@ax-hack.info</email>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Заметка о коллективном разуме]]></title>
         <id>https://ax-hack.info/2018/02/09/notes-collective-mind/</id>
@@ -57,8 +69,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Моя звезда (поэзия)]]></title>
-        <id>https://ax-hack.info/2020/03/08/poetry-for-my-sweethear-kate/</id>
-        <link href="https://ax-hack.info/2020/03/08/poetry-for-my-sweethear-kate/">
+        <id>https://ax-hack.info/2020/03/08/poetry-for-my-sweetheart-kate/</id>
+        <link href="https://ax-hack.info/2020/03/08/poetry-for-my-sweetheart-kate/">
         </link>
         <updated>2020-03-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Поэтический очерк, посвящённый моей возлюбенной - Екатерине.]]></summary>

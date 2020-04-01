@@ -6,6 +6,17 @@
     "description": "Ax-hack personal blog",
     "items": [
         {
+            "id": "https://ax-hack.info/_draft/2020-03-25-whatwatch-ergo-proxy.html",
+            "url": "https://ax-hack.info/_draft/2020-03-25-whatwatch-ergo-proxy.html",
+            "title": "Что посмотреть - Аниме Ergo Proxy",
+            "summary": "Задаётесь вопросом чтобы посмотреть на досуге? Вам нравятся сложные интеллектуальные произведения и вы не пугаетесь рисованной анимации? Тогда Эрго Прокси это то что вам нужно!",
+            "image": "https://ax-hack.info/img/whatwhatch-ergo-proxy/ergo-poster.jpg",
+            "date_modified": "2020-03-25T00:00:00.000Z",
+            "author": {
+                "name": "ax-hack"
+            }
+        },
+        {
             "id": "https://ax-hack.info/2018/02/09/notes-collective-mind/",
             "url": "https://ax-hack.info/2018/02/09/notes-collective-mind/",
             "title": "Заметка о коллективном разуме",
@@ -46,8 +57,8 @@
             }
         },
         {
-            "id": "https://ax-hack.info/2020/03/08/poetry-for-my-sweethear-kate/",
-            "url": "https://ax-hack.info/2020/03/08/poetry-for-my-sweethear-kate/",
+            "id": "https://ax-hack.info/2020/03/08/poetry-for-my-sweetheart-kate/",
+            "url": "https://ax-hack.info/2020/03/08/poetry-for-my-sweetheart-kate/",
             "title": "Моя звезда (поэзия)",
             "summary": "Поэтический очерк, посвящённый моей возлюбенной - Екатерине.",
             "date_modified": "2020-03-08T00:00:00.000Z",
