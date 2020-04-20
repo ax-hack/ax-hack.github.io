@@ -27,27 +27,31 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "_draft/2020-03-25-whatwatch-ergo-proxy.html",
-    "revision": "d0f4703b32fa4e4d29302cdaeedcae41"
+    "revision": "cac97c5641e616dee05296f90a34e058"
   },
   {
     "url": "2018/02/09/notes-collective-mind/index.html",
-    "revision": "ea278201db4cbf484f7c97191711818c"
+    "revision": "db3cb692af5a09b6a1ca706e048f08ff"
   },
   {
     "url": "2018/12/18/phil-thinking-about-fate/index.html",
-    "revision": "4e241a24ec81a03ca1fd4f2e2d9d5536"
+    "revision": "902adc6ed1c7653d57db9bdc46a8467e"
   },
   {
     "url": "2019/08/15/creation-space-wanderer/index.html",
-    "revision": "f7c51da0db08452758f3ddde83af5bf9"
+    "revision": "6dfe46e6bf61712f8a886f19ec66b20c"
   },
   {
     "url": "2020/02/29/creation-last-entry-in-the-logbook/index.html",
-    "revision": "1c829d039f5b608230f03a86a2db83bd"
+    "revision": "9114921b4342340a130fdd59c324e60f"
   },
   {
     "url": "2020/03/08/poetry-for-my-sweetheart-kate/index.html",
-    "revision": "8d9461fb7ef34f886973ea2f480cbe7c"
+    "revision": "b3176b7f30ebb3eecf72ed034bcb6568"
+  },
+  {
+    "url": "2020/04/20/poetry-foxy-eyes/index.html",
+    "revision": "935783830dac061bfd4c2a4fbcb826bb"
   },
   {
     "url": "assets/css/0.styles.3ce694b2.css",
@@ -78,8 +82,8 @@ self.__precacheManifest = [
     "revision": "f646e0e7041529320671f72458ff0d47"
   },
   {
-    "url": "assets/js/12.01c7bc7c.js",
-    "revision": "9a01a4fcd2a926e0089cd75d2df093a4"
+    "url": "assets/js/12.aae20b3a.js",
+    "revision": "f46b6ff26c804ddf68869dce7b47331d"
   },
   {
     "url": "assets/js/13.9ad81066.js",
@@ -110,24 +114,28 @@ self.__precacheManifest = [
     "revision": "6c09090771aae5cb8188a053f9a3281a"
   },
   {
-    "url": "assets/js/20.1eb58e15.js",
-    "revision": "e457e9284c979583a98c4ab1ef180542"
+    "url": "assets/js/20.fcea7915.js",
+    "revision": "204857c66043bb24f02f34da71913688"
   },
   {
-    "url": "assets/js/21.ee451f6d.js",
-    "revision": "8de60837065b3c86fd58fbed0116b077"
+    "url": "assets/js/21.b43069b1.js",
+    "revision": "82f22b502d78227cf4cb9bd7ae3ce452"
   },
   {
-    "url": "assets/js/22.d1caa56d.js",
-    "revision": "91747f79dfc891edfa38d7a5455728b2"
+    "url": "assets/js/22.a02c27d3.js",
+    "revision": "c656672ce623943e74ee45a440bfde1d"
   },
   {
-    "url": "assets/js/23.129f4023.js",
-    "revision": "621631e0f289a822c8d4939ab1b372e0"
+    "url": "assets/js/23.25f3c213.js",
+    "revision": "432e42ebdbd39f97980d3079aa293599"
   },
   {
-    "url": "assets/js/24.8f56878e.js",
-    "revision": "eca692de528cf055d670261e5ccb9a92"
+    "url": "assets/js/24.85fe4805.js",
+    "revision": "0c0981bf14581e64ed1c1d4a64b3795b"
+  },
+  {
+    "url": "assets/js/25.c0fff57b.js",
+    "revision": "7c88a2f2eff8c9a380c8452d96957e0f"
   },
   {
     "url": "assets/js/4.2cd67aa1.js",
@@ -154,8 +162,8 @@ self.__precacheManifest = [
     "revision": "fa539dada82085e93d4dfe9ff0f576be"
   },
   {
-    "url": "assets/js/app.0ae19c72.js",
-    "revision": "adf5855a417bab888da86dde027f3848"
+    "url": "assets/js/app.44f9d550.js",
+    "revision": "5fdb3c8bc7c7e032297b57a26fa7f691"
   },
   {
     "url": "assets/js/vuejs-paginate.18af9619.js",
@@ -167,11 +175,15 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2c2a0a68387d4518db69f5a2615faa69"
+    "revision": "4921e5894b69a4d44f74653dc9b0c19a"
+  },
+  {
+    "url": "page/2/index.html",
+    "revision": "0c305f710887f04683db6c343d0e6036"
   },
   {
     "url": "tag/index.html",
-    "revision": "5ad63ccc23ffd2d5cb7fedf348405514"
+    "revision": "80086ef07b5bde8b81b57d6014c0a9a7"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

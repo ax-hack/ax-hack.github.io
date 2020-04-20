@@ -4,7 +4,7 @@
         <title>Ax-hack</title>
         <link>https://ax-hack.info</link>
         <description>Ax-hack personal blog</description>
-        <lastBuildDate>Mon, 20 Apr 2020 11:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2020 20:30:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://ax-hack.info/feed.atom" rel="self" type="application/rss+xml"/>
@@ -35,14 +35,6 @@
             <author>info@ax-hack.info (ax-hack)</author>
         </item>
         <item>
-            <title><![CDATA[Космический странник]]></title>
-            <link>https://ax-hack.info/2019/08/15/creation-space-wanderer/</link>
-            <guid>https://ax-hack.info/2019/08/15/creation-space-wanderer/</guid>
-            <pubDate>Thu, 15 Aug 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Небольшой рассказ, отрывок. Научная фантастика с элементами драмы, о смешанных чувствах молодого капитана космического корабля.]]></description>
-            <author>info@ax-hack.info (ax-hack)</author>
-        </item>
-        <item>
             <title><![CDATA[Последняя запись в бортовой журнал]]></title>
             <link>https://ax-hack.info/2020/02/29/creation-last-entry-in-the-logbook/</link>
             <guid>https://ax-hack.info/2020/02/29/creation-last-entry-in-the-logbook/</guid>
@@ -56,6 +48,22 @@
             <guid>https://ax-hack.info/2020/03/08/poetry-for-my-sweetheart-kate/</guid>
             <pubDate>Sun, 08 Mar 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Поэтический очерк, посвящённый моей возлюбенной - Екатерине.]]></description>
+            <author>info@ax-hack.info (ax-hack)</author>
+        </item>
+        <item>
+            <title><![CDATA[Глаза Лисички]]></title>
+            <link>https://ax-hack.info/2020/04/20/poetry-foxy-eyes/</link>
+            <guid>https://ax-hack.info/2020/04/20/poetry-foxy-eyes/</guid>
+            <pubDate>Mon, 20 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Поэтический очерк, посвящённый моей возлюбенной - Екатерине.]]></description>
+            <author>info@ax-hack.info (ax-hack)</author>
+        </item>
+        <item>
+            <title><![CDATA[Космический странник]]></title>
+            <link>https://ax-hack.info/2019/08/15/creation-space-wanderer/</link>
+            <guid>https://ax-hack.info/2019/08/15/creation-space-wanderer/</guid>
+            <pubDate>Thu, 15 Aug 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Небольшой рассказ, отрывок. Научная фантастика с элементами драмы, о смешанных чувствах молодого капитана космического корабля.]]></description>
             <author>info@ax-hack.info (ax-hack)</author>
         </item>
     </channel>
