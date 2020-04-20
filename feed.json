@@ -37,6 +37,16 @@
             }
         },
         {
+            "id": "https://ax-hack.info/2019/08/15/creation-space-wanderer/",
+            "url": "https://ax-hack.info/2019/08/15/creation-space-wanderer/",
+            "title": "Космический странник",
+            "summary": "Небольшой рассказ, отрывок. Научная фантастика с элементами драмы, о смешанных чувствах молодого капитана космического корабля.",
+            "date_modified": "2019-08-15T00:00:00.000Z",
+            "author": {
+                "name": "ax-hack"
+            }
+        },
+        {
             "id": "https://ax-hack.info/2020/02/29/creation-last-entry-in-the-logbook/",
             "url": "https://ax-hack.info/2020/02/29/creation-last-entry-in-the-logbook/",
             "title": "Последняя запись в бортовой журнал",
@@ -62,16 +72,6 @@
             "title": "Глаза Лисички",
             "summary": "Поэтический очерк, посвящённый моей возлюбенной - Екатерине.",
             "date_modified": "2020-04-20T00:00:00.000Z",
-            "author": {
-                "name": "ax-hack"
-            }
-        },
-        {
-            "id": "https://ax-hack.info/2019/08/15/creation-space-wanderer/",
-            "url": "https://ax-hack.info/2019/08/15/creation-space-wanderer/",
-            "title": "Космический странник",
-            "summary": "Небольшой рассказ, отрывок. Научная фантастика с элементами драмы, о смешанных чувствах молодого капитана космического корабля.",
-            "date_modified": "2019-08-15T00:00:00.000Z",
             "author": {
                 "name": "ax-hack"
             }

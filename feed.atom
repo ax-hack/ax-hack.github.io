@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ax-hack.info</id>
     <title>Ax-hack</title>
-    <updated>2020-04-20T20:30:06.864Z</updated>
+    <updated>2020-04-20T21:32:46.120Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://ax-hack.info"/>
     <link rel="self" href="https://ax-hack.info/feed.atom"/>
@@ -44,6 +44,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Космический странник]]></title>
+        <id>https://ax-hack.info/2019/08/15/creation-space-wanderer/</id>
+        <link href="https://ax-hack.info/2019/08/15/creation-space-wanderer/">
+        </link>
+        <updated>2019-08-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Небольшой рассказ, отрывок. Научная фантастика с элементами драмы, о смешанных чувствах молодого капитана космического корабля.]]></summary>
+        <author>
+            <name>ax-hack</name>
+            <email>info@ax-hack.info</email>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Последняя запись в бортовой журнал]]></title>
         <id>https://ax-hack.info/2020/02/29/creation-last-entry-in-the-logbook/</id>
         <link href="https://ax-hack.info/2020/02/29/creation-last-entry-in-the-logbook/">
@@ -74,18 +86,6 @@
         </link>
         <updated>2020-04-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Поэтический очерк, посвящённый моей возлюбенной - Екатерине.]]></summary>
-        <author>
-            <name>ax-hack</name>
-            <email>info@ax-hack.info</email>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Космический странник]]></title>
-        <id>https://ax-hack.info/2019/08/15/creation-space-wanderer/</id>
-        <link href="https://ax-hack.info/2019/08/15/creation-space-wanderer/">
-        </link>
-        <updated>2019-08-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Небольшой рассказ, отрывок. Научная фантастика с элементами драмы, о смешанных чувствах молодого капитана космического корабля.]]></summary>
         <author>
             <name>ax-hack</name>
             <email>info@ax-hack.info</email>
