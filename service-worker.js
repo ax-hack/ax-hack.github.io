@@ -27,27 +27,27 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "_draft/2020-03-25-whatwatch-ergo-proxy.html",
-    "revision": "62a7807f9a4ad8dde8689c550746214c"
+    "revision": "97a9995b84907cc732f0a8bf3f50c72e"
   },
   {
     "url": "2018/02/09/notes-collective-mind/index.html",
-    "revision": "9a9b48a101ecac630bae8a3e43719842"
+    "revision": "aaf78c8e1ca885a2f9514621d30f2beb"
   },
   {
     "url": "2018/12/18/phil-thinking-about-fate/index.html",
-    "revision": "7a18bd3e8e705dbc25ddc16746d5fa51"
+    "revision": "72e6f267d9b6f314ab1949968a862529"
   },
   {
     "url": "2019/08/15/creation-space-wanderer/index.html",
-    "revision": "3934b81f16a28a275bef9bc8f52caa34"
+    "revision": "f4fe475ceeb1585bc564ec89a3d8822d"
   },
   {
     "url": "2020/02/29/creation-last-entry-in-the-logbook/index.html",
-    "revision": "e136188cd7abbbb140beb12afc9dc04f"
+    "revision": "a41ad0a6abae732160f8c9ac02a9ec3b"
   },
   {
     "url": "2020/03/08/poetry-for-my-sweetheart-kate/index.html",
-    "revision": "a030018c450c7291e79e84bf0f06b172"
+    "revision": "6f353382ab1da776d4ed58d5432c0fd6"
   },
   {
     "url": "assets/css/0.styles.3ce694b2.css",
@@ -118,8 +118,8 @@ self.__precacheManifest = [
     "revision": "8de60837065b3c86fd58fbed0116b077"
   },
   {
-    "url": "assets/js/22.583ff9c6.js",
-    "revision": "e7cc2aa4edd75213f6eec28550765082"
+    "url": "assets/js/22.0f881099.js",
+    "revision": "3b8ed2ed17b1acde367c346f1a13937c"
   },
   {
     "url": "assets/js/23.129f4023.js",
@@ -154,8 +154,8 @@ self.__precacheManifest = [
     "revision": "fa539dada82085e93d4dfe9ff0f576be"
   },
   {
-    "url": "assets/js/app.c0437c75.js",
-    "revision": "d853277e923c7dedc01d1c0099a6a04a"
+    "url": "assets/js/app.8de69b35.js",
+    "revision": "35ecc3595b963d46d969da4848c9b89b"
   },
   {
     "url": "assets/js/vuejs-paginate.18af9619.js",
@@ -167,11 +167,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5767dd345b44f4a73010c92091f6b739"
+    "revision": "f256fdaa1f04218721fb7aa8403b9dcf"
   },
   {
     "url": "tag/index.html",
-    "revision": "7f705f5082b6cf8c20accfb795d4d67b"
+    "revision": "cd1af39f4df68405d62db65177d4e4b4"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
