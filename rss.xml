@@ -4,7 +4,7 @@
         <title>Ax-hack</title>
         <link>https://ax-hack.info</link>
         <description>Ax-hack personal blog</description>
-        <lastBuildDate>Mon, 20 Apr 2020 21:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2020 21:54:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://ax-hack.info/feed.atom" rel="self" type="application/rss+xml"/>
