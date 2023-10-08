@@ -1,0 +1,3 @@
+[submodule "themes/nasm-theme"]
+	path = themes/nasm-theme
+	url = git@github.com:lucasnasm/nasm-theme.git
